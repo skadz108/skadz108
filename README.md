@@ -1,16 +1,17 @@
-### Hi there 👋
+# **`skadz`**
 
-<!--
-**skadz108/skadz108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+hello world !
+i am skadz, a developer, gamer, writer, and more
 
-Here are some ideas to get you started:
+this is my GitHub profile, where you can find the small number of my creations i felt like putting up for public judgement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+current major project is [Skadz.net](Skadz.net)
+
+languages:
+
+fluent in HTML (i think)
+knows basic CSS
+working on JavaScript
+learning C++
+
+thanks for reading, have a day !
