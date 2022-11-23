@@ -9,14 +9,9 @@ current major project is [Skadz.net](Skadz.net)
 
 languages:
 
-fluent in HTML (i think)
-
-knows basic CSS
-
-working on JavaScript
-
-learning C++
-
-
+ - fluent in HTML (i think) 
+ - knows basic CSS 
+ - working on JavaScript
+ - learning C++
 
 thanks for reading, have a day !
