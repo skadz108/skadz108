@@ -13,7 +13,7 @@ i am skadz, a developer, gamer, writer, and more
 
 this is my GitHub profile, where you can find the small number of my creations i felt like putting up for public judgement.
 
-current major project is [Skadz.net](Skadz.net)
+current major project is [Skadz.online](Skadz.online)
 
 languages:
 
