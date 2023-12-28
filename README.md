@@ -1,5 +1,4 @@
 # Skadz
-<img src="https://skadz.online/skadz_fixed.png" width="125" height="125">
 
 I do things on a computer.
 
