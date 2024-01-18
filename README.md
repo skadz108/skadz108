@@ -8,7 +8,8 @@ I'm a developer, game player, music enjoyer, and a few other things.
 
 ## Projects
 
-- [HammerJB](https://github.com/HammerJB)
+- kfdTests
+- Some other iOS apps
 - [Skadz.online](https://skadz.online) (I need to start working on this more)
 - Lots of other small things.
 
