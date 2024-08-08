@@ -4,22 +4,21 @@ I do things on a computer.
 
 ## About
 
-I'm a developer, game player, music enjoyer, and a few other things.
+Developer, writer, and music-enjoyer from Arizona.
 
 ## Projects
 
-- Vinci
-- kfdTests
-- Some other iOS apps
-- [Skadz.online](https://skadz.online) (I need to start working on this more)
-- Lots of other small things.
+- Riptide, a web feed client for iOS.
+- Some iOS jailbreaking stuff
+- Some regular iOS stuff
+- Some music stuff
+- Lots of other stuff
 
 ## Languages
 
-- HTML
+- Swift
 - JavaScript
 - Python
-- Swift (still learning)
 
 ## Contact
 
