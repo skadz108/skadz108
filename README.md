@@ -8,6 +8,7 @@ Developer, writer, and music-enjoyer from Arizona.
 
 ## Projects
 
+- [Mandela](https://github.com/skadz108/Mandela), a simple iOS 16+ customization tool.
 - Riptide, a web feed client for iOS.
 - Some iOS jailbreaking stuff
 - Some regular iOS stuff
