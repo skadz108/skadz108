@@ -8,6 +8,8 @@ Developer, writer, and music-enjoyer from Arizona.
 
 ## Projects
 
+- SpareRestore (not to confused with SparseRestore), a [redacted].
+- Octopus, a sideloading app for iOS.
 - Swiftflix, a "content streaming app" for iOS.
 - Riptide, a web feed client for iOS.
 - Some iOS jailbreaking stuff
@@ -18,8 +20,8 @@ Developer, writer, and music-enjoyer from Arizona.
 ## Languages
 
 - Swift
-- JavaScript
 - Python
+- JavaScript
 
 ## Contact
 
