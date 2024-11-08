@@ -6,16 +6,14 @@ I do things on a computer.
 
 Developer, writer, and music-enjoyer from Arizona.
 
+Working with the [jailbreak.party](https://github.com/jailbreakdotparty) team on some iOS stuff.
+
 ## Projects
 
-- SpareRestore (not to confused with SparseRestore), a [redacted].
+- [BroccoliAnalytics](https://github.com/jailbreakdotparty/BroccoliAnalytics), an arbitrary file read PoC using SparseRestore.
+- Melatonin, a jailed customization toolbox using SparseRestore.
 - Octopus, a sideloading app for iOS.
-- Swiftflix, a "content streaming app" for iOS.
-- Riptide, a web feed client for iOS.
-- Some iOS jailbreaking stuff
-- Some regular iOS stuff
-- Some music stuff
-- Lots of other stuff
+- Some other things.
 
 ## Languages
 
