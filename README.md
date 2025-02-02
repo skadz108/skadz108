@@ -4,16 +4,22 @@ I do things on a computer.
 
 ## About
 
-Developer, writer, and music-enjoyer from Arizona.
+Developer, "security researcher", writer, and music-enjoyer from Arizona.
 
-Working with the [jailbreak.party](https://github.com/jailbreakdotparty) team on some iOS stuff.
+Researching iOS stuff with the [jailbreak.party](https://github.com/jailbreakdotparty) team.
 
 ## Projects
 
-- [BroccoliAnalytics](https://github.com/jailbreakdotparty/BroccoliAnalytics), an arbitrary file read PoC using SparseRestore.
-- Melatonin, a jailed customization toolbox using SparseRestore.
-- Octopus, a sideloading app for iOS.
+- [SkadzThemer](https://github.com/skadz108/SkadzThemer), an iOS icon theming tool using SparseRestore.
+- [Octopus](https://jailbreak.party/octopus/), a sideloading app for iOS.
 - Some other things.
+
+## CVEs
+| ID | Vendor | Platforms | Classification |
+|:--:|:--:|--|:--:|
+| [`CVE-2024-54488`](https://nvd.nist.gov/vuln/detail/CVE-2024-54488) | Apple | iOS/iPadOS (up to 18.2/17.7.3)<br>macOS (up to 15.2/14.7.2) | Arb. File Read |
+
+More soon™
 
 ## Languages
 
