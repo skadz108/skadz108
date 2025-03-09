@@ -11,7 +11,7 @@ Researching iOS stuff with the [jailbreak.party](https://github.com/jailbreakdot
 ## Projects
 
 - [SkadzThemer](https://github.com/skadz108/SkadzThemer), an iOS icon theming tool using SparseRestore.
-- [Octopus](https://jailbreak.party/octopus/), a sideloading app for iOS.
+- [NeoSigner](https://github.com/NeoSigniOS/NeoSigner), a sideloading app for iOS.
 - Some other things.
 
 ## CVEs
