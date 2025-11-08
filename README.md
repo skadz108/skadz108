@@ -9,7 +9,6 @@ Researching iOS stuff with the [jailbreak.party](https://github.com/jailbreakdot
 ## Projects
 
 - [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero), a simple iOS customization toolbox, utilizing [CVE-2025-24203](https://project-zero.issues.chromium.org/issues/391518636).
-- [dirtyOne (upcoming)](https://github.com/jailbreakdotparty/), the ultimate iOS toolbox for MDC/KFD/TrollStore, dirtyZero, and future exploits.
 - [AvarkSign](https://github.com/jailbreakdotparty/AvarkSign), a sideloading app for iOS.
 - [SkadzThemer](https://github.com/skadz108/SkadzThemer), an iOS icon theming tool using SparseRestore.
 - Some other things.
