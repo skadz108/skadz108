@@ -1,16 +1,22 @@
 # Skadz
 
-Programmer, writer, researcher, (amateur) producer, and some other things.
+Programmer, writer, researcher, and some other things.
 
 Making things for iOS at [jailbreak.party](https://github.com/jailbreakdotparty).
 
 ## Projects
 
+- [PancakeStore](https://github.com/jailbreakdotparty/PancakeStore), an iOS app downgrader that works on all versions.
 - [dirtyZero](https://github.com/jailbreakdotparty/dirtyZero), a simple iOS customization toolbox, utilizing [CVE-2025-24203](https://project-zero.issues.chromium.org/issues/391518636).
-- [AvarkSign](https://github.com/jailbreakdotparty/AvarkSign), an iOS on-device sideloading utility.
-- [BlacklistBeGone](https://github.com/jailbreakdotparty/BlacklistBeGone), a script utilizing the iOS backup system to reset enterprise app certificate blacklist status.
-- **Omega**, a script utilizing the iOS backup system to circumvent various restrictions on sideloaded apps. *Coming soon!*
-- Various others, public and private.
+- [Omega](https://github.com/jailbreakdotparty/Omega), a script utilizing the iOS backup system to circumvent various restrictions on sideloaded apps.
+- Lots of other things, I like making stuff
+
+## Experience
+
+- Researching iOS internals
+- Swift/SwiftUI
+- Web development?
+- Node.js web backend?
 
 ## CVEs
 | ID | Vendor | Platforms | Classification |
@@ -19,17 +25,8 @@ Making things for iOS at [jailbreak.party](https://github.com/jailbreakdotparty)
 
 More soon™ :eyes:
 
-## Experience
-
-- Swift/SwiftUI
-- iOS internal research
-- Node.js web backend
-- (interested in learning) C/C++
-
 ## Contact
 
-Discord: `@skadz108`
+Email is on my site (`skadz [dot] online`), Discord and Twitter you can probably easily find/guess..
 
-Twitter: `@skadz108`
-
-Email: `skadz [at] skadz [dot] online`
+Please don't email me for support questions.
